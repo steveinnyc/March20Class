@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "299003734339",
+    "firebase_url": "https://march20class.firebaseio.com",
+    "project_id": "march20class",
+    "storage_bucket": "march20class.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299003734339:android:c4793c4b6a2bb1e9",
+        "android_client_info": {
+          "package_name": "com.example.android.march20class"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299003734339-t626d2mdbbrs1r19evc148i39okbu9g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoB5gMVGhnh3e3hLMaGvoxm2_uUaXuIdY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
